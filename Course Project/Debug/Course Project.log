@@ -1,0 +1,20 @@
+﻿  Source.cpp
+g:\cos\fundemental data structure\course project\course project\carpart.h(24): warning C4018: '<': signed/unsigned mismatch
+g:\cos\fundemental data structure\course project\course project\accessories.h(24): warning C4018: '<': signed/unsigned mismatch
+g:\cos\fundemental data structure\course project\course project\source.cpp(294): warning C4018: '<': signed/unsigned mismatch
+g:\cos\fundemental data structure\course project\course project\source.cpp(300): warning C4018: '<': signed/unsigned mismatch
+g:\cos\fundemental data structure\course project\course project\source.cpp(303): warning C4018: '<': signed/unsigned mismatch
+g:\cos\fundemental data structure\course project\course project\source.cpp(338): warning C4018: '<': signed/unsigned mismatch
+g:\cos\fundemental data structure\course project\course project\source.cpp(344): warning C4018: '<': signed/unsigned mismatch
+g:\cos\fundemental data structure\course project\course project\source.cpp(347): warning C4018: '<': signed/unsigned mismatch
+g:\cos\fundemental data structure\course project\course project\source.cpp(381): warning C4018: '<': signed/unsigned mismatch
+g:\cos\fundemental data structure\course project\course project\source.cpp(387): warning C4018: '<': signed/unsigned mismatch
+g:\cos\fundemental data structure\course project\course project\source.cpp(390): warning C4018: '<': signed/unsigned mismatch
+g:\cos\fundemental data structure\course project\course project\source.cpp(406): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+g:\cos\fundemental data structure\course project\course project\source.cpp(448): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+g:\cos\fundemental data structure\course project\course project\source.cpp(458): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+g:\cos\fundemental data structure\course project\course project\source.cpp(480): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+g:\cos\fundemental data structure\course project\course project\source.cpp(499): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+g:\cos\fundemental data structure\course project\course project\source.cpp(515): warning C4715: 'menuChoice': not all control paths return a value
+g:\cos\fundemental data structure\course project\course project\part.h(34): warning C4715: 'Part::getColor': not all control paths return a value
+  Course Project.vcxproj -> G:\COS\Fundemental Data Structure\Course Project\Debug\Course Project.exe

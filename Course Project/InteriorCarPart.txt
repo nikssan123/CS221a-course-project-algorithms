@@ -1,0 +1,2 @@
+Cockpit Panels 2133 4 1 50 20 Lether 5
+Cockpit Mirror 2332 2 0 30 20 Glass 4
